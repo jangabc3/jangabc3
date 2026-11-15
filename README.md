@@ -25,35 +25,33 @@
 
 ## 💻 Projects
 
-<table width="100%">
+<table>
   <tr>
-    <th width="50%">Linker · 링커</th>
-    <th width="50%">Showmoa · 쇼모아</th>
+    <th width="50%">🔗 Linker · 링커</th>
+    <th width="50%">🎭 Showmoa · 쇼모아</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://linker.newlecture.com/feed"><img src="https://github.com/user-attachments/assets/fbfdb319-2e04-40ab-8e71-ee83eab90139" alt="Linker — GitHub와 연결된 개발자 협업 플랫폼 소개" height="160" /></a></td>
+    <td align="center"><a href="https://showmoa.vercel.app/"><img src="https://github.com/user-attachments/assets/e46fbce1-64b0-4b55-9680-fa0c7aa62aa5" alt="SHOW MOA" height="160" /></a></td>
   </tr>
   <tr>
     <td valign="top">
-      <p align="center"><a href="https://linker.newlecture.com/feed"><img src="https://raw.githubusercontent.com/likelion-backendschool-9th/Linker/dev/docs/images/readme/06-board.png" alt="링커 상태 보드 화면 — 저장소에 공개된 목업 데이터 화면" height="260" /></a><br /><sub>상태 보드 · 공개 데모 화면</sub></p>
-      <b>GitHub 기반 개발자 협업 플랫폼</b><br /><br />
-      <b>담당 영역</b><br />
-      · 이슈 목록·상세·작성<br />
-      · 상태 보드·캘린더<br />
-      · 담당 페이지의 프론트엔드·백엔드<br /><br />
+      <b>GitHub 이슈·보드·캘린더를 연결하는 협업 플랫폼</b>
+      <ul>
+        <li><b>이슈 중복 생성 방지</b><br />요청 식별자로 작업을 구분하고, 부분 실패 시 남은 단계부터 재시도</li>
+        <li><b>동기화 실패 시 데이터 보호</b><br />조회 실패와 삭제를 구분하고, 버전 비교로 오래된 응답의 덮어쓰기 방지</li>
+      </ul>
       <sub>Java · Spring Boot · PostgreSQL · Next.js</sub><br /><br />
-      <a href="https://linker.newlecture.com/feed">서비스 ↗</a> · <a href="https://github.com/likelion-backendschool-9th/Linker">GitHub ↗</a>
+      <a href="https://linker.newlecture.com/feed">서비스 ↗</a> · <a href="https://github.com/likelion-backendschool-9th/Linker">GitHub ↗</a> · <a href="https://jangabc3.tistory.com/216">개발 회고 ↗</a>
     </td>
     <td valign="top">
-      <p align="center"><a href="https://showmoa.vercel.app/"><img src="https://github.com/user-attachments/assets/218f80ff-be52-4b92-a0c6-cbd1961b80e7" alt="쇼모아 실제 서비스 홈 화면" height="260" /></a><br /><sub>공연 탐색 · 서비스 화면</sub></p>
-      <b>전국 공연을 찾고 저장하는 서비스</b><br /><br />
-      <b>담당 영역</b><br />
-      · 공연 검색·조회 API<br />
-      · 회원 관리·JWT·카카오·구글 로그인<br />
-      · UI/UX 품질 확인·테스트<br /><br />
+      <b>전국 공연을 검색하고 관심 공연을 저장하는 서비스</b>
+      <ul>
+        <li><b>소셜 로그인 장애 해결</b><br />도메인 간 쿠키 전달 문제를 추적하고, PKCE 기반 코드 교환으로 재설계</li>
+        <li><b>인증 처리의 동시성 개선</b><br />Valkey의 Lua·GETDEL로 인증 확인·소비 과정의 경쟁 상태 개선</li>
+      </ul>
       <sub>Java · Spring Boot · JPA · PostgreSQL</sub><br /><br />
-      <a href="https://showmoa.vercel.app/">서비스 ↗</a> · <a href="https://github.com/dawn-guys/showmoa-backend">GitHub ↗</a>
+      <a href="https://showmoa.vercel.app/">서비스 ↗</a> · <a href="https://github.com/dawn-guys/showmoa-backend">GitHub ↗</a> · <a href="https://jangabc3.tistory.com/193">개발 회고 ↗</a>
     </td>
   </tr>
 </table>
-
----
-
-

@@ -47,3 +47,10 @@
     <td align="center"><a href="https://github.com/likelion-backendschool-9th/Linker">GitHub ↗</a> · <a href="https://jangabc3.tistory.com/215">개발 회고 ↗</a></td>
   </tr>
 </table>
+
+## 🎓 Education
+
+**멋쟁이사자처럼 백엔드 부트캠프 26기 · Java & Spring**  
+<sub>2026.06.30 ~ 현재 · 수강 중</sub>
+
+Java·Spring 기반 백엔드 개발 학습 및 팀 프로젝트 수행

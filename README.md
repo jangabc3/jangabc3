@@ -27,16 +27,16 @@
 
 <table>
   <tr>
-    <td width="50%" align="center"><a href="https://showmoa.vercel.app/"><img src="https://github.com/user-attachments/assets/5e6905dd-215c-4a46-b209-1d4ce1ba1ac7" alt="Showmoa — 공연 탐색 서비스" width="400" /></a></td>
-    <td width="50%" align="center"><a href="https://linker.newlecture.com/feed"><img src="https://github.com/user-attachments/assets/fbfdb319-2e04-40ab-8e71-ee83eab90139" alt="Linker — 개발자 협업 플랫폼" width="400" /></a></td>
+    <td width="50%" align="center" valign="middle"><a href="https://showmoa.vercel.app/"><img src="https://github.com/user-attachments/assets/5e6905dd-215c-4a46-b209-1d4ce1ba1ac7" alt="Showmoa — 공연 탐색 서비스" width="400" height="200" /></a></td>
+    <td width="50%" align="center" valign="middle"><a href="https://linker.newlecture.com/feed"><img src="https://github.com/user-attachments/assets/fbfdb319-2e04-40ab-8e71-ee83eab90139" alt="Linker — 개발자 협업 플랫폼" width="400" height="200" /></a></td>
   </tr>
   <tr>
     <td align="center"><b><a href="https://showmoa.vercel.app/">Showmoa · 쇼모아</a></b></td>
     <td align="center"><b><a href="https://linker.newlecture.com/feed">Linker · 링커</a></b></td>
   </tr>
   <tr>
-    <td align="center">흩어진 공연 정보를 한곳에서 찾는 서비스</td>
-    <td align="center">개발자의 기록과 협업을 연결하는 플랫폼</td>
+    <td align="center">흩어진 공연 정보를 한곳에서 찾는 서비스<br /><sub><b>담당</b> · 회원 인증 · 공연 검색 API</sub></td>
+    <td align="center">개발자의 기록과 협업을 연결하는 플랫폼<br /><sub><b>담당</b> · 이슈 · 보드 · 캘린더 구현</sub></td>
   </tr>
   <tr>
     <td align="center"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img alt="JPA" src="https://img.shields.io/badge/JPA-59666C?style=flat-square" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></td>

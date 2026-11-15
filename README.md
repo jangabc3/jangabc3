@@ -1,9 +1,13 @@
 # 안녕하세요, 백엔드 개발자 장준영입니다 👋
 
-Java · Spring 기반으로 서비스를 개발하고, 사용자가 쓰는 흐름까지 확인합니다.  
-쇼모아에서는 공연 검색·회원 인증을, 링커에서는 이슈·보드·캘린더를 담당했습니다.
+<p align="center">
+동작하는 코드에도 질문을 던지고, 문제를 해결한 과정과 이유를 기록합니다.<br />
+사용자가 마주할 예외까지 생각하는 백엔드 개발자로 성장 중입니다.
+</p>
 
-[![Tech Blog](https://img.shields.io/badge/Tech_Blog-주농의_하루-FF5544?style=flat-square&logo=tistory&logoColor=white)](https://jangabc3.tistory.com/)
+<p align="center">
+  <a href="https://jangabc3.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5544?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" /></a>
+</p>
 
 ## 🛠 Tech Stack
 
@@ -48,4 +52,4 @@ Java · Spring 기반으로 서비스를 개발하고, 사용자가 쓰는 흐�
 
 ---
 
-📚 배운 내용과 개발 과정은 [기술 블로그 · 주농의 하루](https://jangabc3.tistory.com/)에 기록합니다.
+

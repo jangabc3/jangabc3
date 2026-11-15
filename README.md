@@ -31,27 +31,27 @@
     <th width="50%">🎭 Showmoa · 쇼모아</th>
   </tr>
   <tr>
-    <td align="center"><a href="https://linker.newlecture.com/feed"><img src="https://github.com/user-attachments/assets/fbfdb319-2e04-40ab-8e71-ee83eab90139" alt="Linker — GitHub와 연결된 개발자 협업 플랫폼 소개" height="160" /></a></td>
-    <td align="center"><a href="https://showmoa.vercel.app/"><img src="https://github.com/user-attachments/assets/e46fbce1-64b0-4b55-9680-fa0c7aa62aa5" alt="SHOW MOA" height="160" /></a></td>
+    <td align="center"><a href="https://linker.newlecture.com/feed"><img src="https://github.com/user-attachments/assets/fbfdb319-2e04-40ab-8e71-ee83eab90139" alt="Linker — GitHub와 연결된 개발자 협업 플랫폼 소개" width="400" /></a></td>
+    <td align="center"><a href="https://showmoa.vercel.app/"><img src="https://github.com/user-attachments/assets/5e6905dd-215c-4a46-b209-1d4ce1ba1ac7" alt="SHOW MOA" width="400" /></a></td>
   </tr>
   <tr>
     <td valign="top">
-      <b>GitHub 이슈·보드·캘린더를 연결하는 협업 플랫폼</b>
+      <b>GitHub와 연결된 개발자 협업 플랫폼</b>
       <ul>
-        <li><b>이슈 중복 생성 방지</b><br />요청 식별자로 작업을 구분하고, 부분 실패 시 남은 단계부터 재시도</li>
-        <li><b>동기화 실패 시 데이터 보호</b><br />조회 실패와 삭제를 구분하고, 버전 비교로 오래된 응답의 덮어쓰기 방지</li>
+        <li><b>이슈 중복 생성 방지</b><br />요청 식별자로 중복을 막고<br />실패한 단계부터 재시도</li>
+        <li><b>동기화 데이터 보호</b><br />조회 실패 시 기존 데이터를 보존하고<br />오래된 응답의 반영 방지</li>
       </ul>
       <sub>Java · Spring Boot · PostgreSQL · Next.js</sub><br /><br />
-      <a href="https://linker.newlecture.com/feed">서비스 ↗</a> · <a href="https://github.com/likelion-backendschool-9th/Linker">GitHub ↗</a> · <a href="https://jangabc3.tistory.com/216">개발 회고 ↗</a>
+      <a href="https://linker.newlecture.com/feed">서비스 ↗</a> · <a href="https://github.com/likelion-backendschool-9th/Linker">GitHub ↗</a> · <a href="https://jangabc3.tistory.com/215">개발 회고 ↗</a>
     </td>
     <td valign="top">
-      <b>전국 공연을 검색하고 관심 공연을 저장하는 서비스</b>
+      <b>공연 검색부터 찜·캘린더까지, 공연 탐색 서비스</b>
       <ul>
-        <li><b>소셜 로그인 장애 해결</b><br />도메인 간 쿠키 전달 문제를 추적하고, PKCE 기반 코드 교환으로 재설계</li>
-        <li><b>인증 처리의 동시성 개선</b><br />Valkey의 Lua·GETDEL로 인증 확인·소비 과정의 경쟁 상태 개선</li>
+        <li><b>소셜 로그인 장애 해결</b><br />도메인 간 쿠키 문제를 추적하고<br />PKCE 기반 코드 교환으로 재설계</li>
+        <li><b>인증 동시성 개선</b><br />Lua·GETDEL로 인증 처리를 원자화해<br />인증 정보의 중복 사용 방지</li>
       </ul>
       <sub>Java · Spring Boot · JPA · PostgreSQL</sub><br /><br />
-      <a href="https://showmoa.vercel.app/">서비스 ↗</a> · <a href="https://github.com/dawn-guys/showmoa-backend">GitHub ↗</a> · <a href="https://jangabc3.tistory.com/193">개발 회고 ↗</a>
+      <a href="https://showmoa.vercel.app/">서비스 ↗</a> · <a href="https://github.com/dawn-guys/showmoa-backend">GitHub ↗</a> · <a href="https://jangabc3.tistory.com/191">개발 회고 ↗</a>
     </td>
   </tr>
 </table>

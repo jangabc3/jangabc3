@@ -53,3 +53,8 @@
 - **멋쟁이사자처럼 백엔드 부트캠프 26기 · Java & Spring**
   - 2026.06.30 ~ 현재 · 수강 중
   - Java·Spring 기반 백엔드 개발 학습 및 팀 프로젝트 수행
+
+## 📬 Contact
+
+- **Email:** [jangabc3@naver.com](mailto:jangabc3@naver.com)
+- **Blog:** [Tistory](https://jangabc3.tistory.com/)

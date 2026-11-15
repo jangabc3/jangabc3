@@ -16,7 +16,7 @@ Java · Spring 기반으로 서비스를 개발하고, 사용자가 쓰는 흐�
 
 ## 💻 Projects
 
-<table>
+<table width="100%">
   <tr>
     <th width="50%">Linker · 링커</th>
     <th width="50%">Showmoa · 쇼모아</th>
@@ -34,7 +34,7 @@ Java · Spring 기반으로 서비스를 개발하고, 사용자가 쓰는 흐�
     </td>
     <td valign="top">
       <p align="center"><a href="https://showmoa.vercel.app/"><img src="https://github.com/user-attachments/assets/218f80ff-be52-4b92-a0c6-cbd1961b80e7" alt="쇼모아 실제 서비스 홈 화면" height="260" /></a><br /><sub>공연 탐색 · 서비스 화면</sub></p>
-      <b>전국 공연을 찾고 저장하는 공연 정보 서비스</b><br /><br />
+      <b>전국 공연을 찾고 저장하는 서비스</b><br /><br />
       <b>담당 영역</b><br />
       · 공연 검색·조회 API<br />
       · 회원 관리·JWT·카카오·구글 로그인<br />

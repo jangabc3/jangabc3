@@ -35,12 +35,8 @@
     <td align="center"><b><a href="https://linker.newlecture.com/feed">Linker · 링커</a></b></td>
   </tr>
   <tr>
-    <td align="center">공연 검색부터 찜·캘린더까지</td>
-    <td align="center">GitHub와 연결된 개발자 협업 플랫폼</td>
-  </tr>
-  <tr>
-    <td align="center">배포 환경의 소셜 로그인 장애 해결<br />인증 정보의 중복 사용 방지</td>
-    <td align="center">재시도 시 이슈 중복 생성 방지<br />동기화 실패 시 기존 데이터 보호</td>
+    <td align="center">흩어진 공연 정보를 한곳에서 찾는 서비스</td>
+    <td align="center">개발자의 기록과 협업을 연결하는 플랫폼</td>
   </tr>
   <tr>
     <td align="center"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img alt="JPA" src="https://img.shields.io/badge/JPA-59666C?style=flat-square" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></td>

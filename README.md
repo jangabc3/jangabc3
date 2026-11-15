@@ -27,31 +27,27 @@
 
 <table>
   <tr>
-    <th width="50%">🔗 Linker · 링커</th>
-    <th width="50%">🎭 Showmoa · 쇼모아</th>
+    <td width="50%" align="center"><a href="https://showmoa.vercel.app/"><img src="https://github.com/user-attachments/assets/5e6905dd-215c-4a46-b209-1d4ce1ba1ac7" alt="Showmoa — 공연 탐색 서비스" width="400" /></a></td>
+    <td width="50%" align="center"><a href="https://linker.newlecture.com/feed"><img src="https://github.com/user-attachments/assets/fbfdb319-2e04-40ab-8e71-ee83eab90139" alt="Linker — 개발자 협업 플랫폼" width="400" /></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://linker.newlecture.com/feed"><img src="https://github.com/user-attachments/assets/fbfdb319-2e04-40ab-8e71-ee83eab90139" alt="Linker — GitHub와 연결된 개발자 협업 플랫폼 소개" width="400" /></a></td>
-    <td align="center"><a href="https://showmoa.vercel.app/"><img src="https://github.com/user-attachments/assets/5e6905dd-215c-4a46-b209-1d4ce1ba1ac7" alt="SHOW MOA" width="400" /></a></td>
+    <td align="center"><b><a href="https://showmoa.vercel.app/">Showmoa · 쇼모아</a></b></td>
+    <td align="center"><b><a href="https://linker.newlecture.com/feed">Linker · 링커</a></b></td>
   </tr>
   <tr>
-    <td valign="top">
-      <b>GitHub와 연결된 개발자 협업 플랫폼</b>
-      <ul>
-        <li><b>이슈 중복 생성 방지</b><br />요청 식별자로 중복을 막고<br />실패한 단계부터 재시도</li>
-        <li><b>동기화 데이터 보호</b><br />조회 실패 시 기존 데이터를 보존하고<br />오래된 응답의 반영 방지</li>
-      </ul>
-      <sub>Java · Spring Boot · PostgreSQL · Next.js</sub><br /><br />
-      <a href="https://linker.newlecture.com/feed">서비스 ↗</a> · <a href="https://github.com/likelion-backendschool-9th/Linker">GitHub ↗</a> · <a href="https://jangabc3.tistory.com/215">개발 회고 ↗</a>
-    </td>
-    <td valign="top">
-      <b>공연 검색부터 찜·캘린더까지, 공연 탐색 서비스</b>
-      <ul>
-        <li><b>소셜 로그인 장애 해결</b><br />도메인 간 쿠키 문제를 추적하고<br />PKCE 기반 코드 교환으로 재설계</li>
-        <li><b>인증 동시성 개선</b><br />Lua·GETDEL로 인증 처리를 원자화해<br />인증 정보의 중복 사용 방지</li>
-      </ul>
-      <sub>Java · Spring Boot · JPA · PostgreSQL</sub><br /><br />
-      <a href="https://showmoa.vercel.app/">서비스 ↗</a> · <a href="https://github.com/dawn-guys/showmoa-backend">GitHub ↗</a> · <a href="https://jangabc3.tistory.com/191">개발 회고 ↗</a>
-    </td>
+    <td align="center">공연 검색부터 찜·캘린더까지</td>
+    <td align="center">GitHub와 연결된 개발자 협업 플랫폼</td>
+  </tr>
+  <tr>
+    <td align="center">배포 환경의 소셜 로그인 장애 해결<br />인증 정보의 중복 사용 방지</td>
+    <td align="center">재시도 시 이슈 중복 생성 방지<br />동기화 실패 시 기존 데이터 보호</td>
+  </tr>
+  <tr>
+    <td align="center"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img alt="JPA" src="https://img.shields.io/badge/JPA-59666C?style=flat-square" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></td>
+    <td align="center"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/dawn-guys/showmoa-backend">GitHub ↗</a> · <a href="https://jangabc3.tistory.com/191">개발 회고 ↗</a></td>
+    <td align="center"><a href="https://github.com/likelion-backendschool-9th/Linker">GitHub ↗</a> · <a href="https://jangabc3.tistory.com/215">개발 회고 ↗</a></td>
   </tr>
 </table>

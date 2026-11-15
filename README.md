@@ -1,13 +1,17 @@
-# 안녕하세요, 백엔드 개발자 장준영입니다 👋
-
-<p align="center">
-동작하는 코드에도 질문을 던지고, 문제를 해결한 과정과 이유를 기록합니다.<br />
-사용자가 마주할 예외까지 생각하는 백엔드 개발자로 성장 중입니다.
-</p>
+<h2 align="center">안녕하세요, 백엔드 개발자 장준영입니다 👋</h2>
 
 <p align="center">
   <a href="https://jangabc3.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5544?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" /></a>
 </p>
+
+<br />
+
+<p align="center">
+  <em>동작하는 코드에도 질문을 던지고, 문제를 해결한 과정과 이유를 기록합니다.<br />
+  사용자가 마주할 예외까지 생각하는 백엔드 개발자로 성장 중입니다.</em>
+</p>
+
+<br />
 
 ## 🛠 Tech Stack
 

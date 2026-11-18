@@ -1,6 +1,7 @@
 <h1 align="center">안녕하세요, 백엔드 개발자 장준영입니다 👋</h1>
 
 <p align="center">
+  <a href="https://junyoung-portfolio-three.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://jangabc3.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5544?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" /></a>
 </p>
 
@@ -48,6 +49,8 @@
   </tr>
 </table>
 
+<p align="center"><sub>프로젝트별 설계 과정과 트러블슈팅은 <a href="https://junyoung-portfolio-three.vercel.app/"><b>포트폴리오 사이트</b></a>에서 더 자세히 볼 수 있습니다.</sub></p>
+
 ## 🎓 Education
 
 - **멋쟁이사자처럼 백엔드 부트캠프 26기 · Java & Spring**
@@ -57,4 +60,5 @@
 ## 📬 Contact
 
 - **Email:** [jangabc3@naver.com](mailto:jangabc3@naver.com)
+- **Portfolio:** [junyoung-portfolio-three.vercel.app](https://junyoung-portfolio-three.vercel.app/)
 - **Blog:** [Tistory](https://jangabc3.tistory.com/)
